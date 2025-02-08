@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Fandom Search Filter",
+  "version": "1.0",
+  "description": "Removes Fandom results from Google searches",
+  "content_scripts": [
+    {
+      "matches": ["*://*.google.com/search*"],
+      "js": ["content.js"]
+    }
+  ]
+}
