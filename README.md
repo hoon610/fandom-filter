@@ -1,4 +1,4 @@
-# Fandom Search Filter Wiki
+# Fandom Wiki Search Filter
 
 ## Overview
 Fandom Search Filter is a lightweight Chrome extension that automatically removes Fandom wiki results from Google search pages.
